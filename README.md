@@ -1,5 +1,5 @@
-# data_analyst_case
-IFOOD DATA ANALYST CASE
+# data_product_analyst_case
+IFOOD DATA PRODUCT ANALYST CASE
 
 ### **Objetivo**:
 - [X]  _Analisar perfis dos consumidores e utilizar modelo preditivo para maximizar o lucro da próxima campanha._
